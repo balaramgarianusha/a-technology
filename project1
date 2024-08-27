@@ -1,0 +1,11 @@
+:wq! is save the file
+i=insert
+[D[Desc is switch command mode[D[A[A[A[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D or zz is save and exit [B[B[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dvi with file name is open and edit file
+yy copy line of text
+pp paste line of yanked text below
+
+[CD
+
+wq!
+
+`
